@@ -1,0 +1,5 @@
+# FechaZap Supabase Edge Functions
+# A função usa a publishable key no header `apikey` e valida essa chave dentro do código.
+# Por isso o gateway não deve exigir um JWT no header Authorization.
+[functions.enviar-whatsapp]
+verify_jwt = false

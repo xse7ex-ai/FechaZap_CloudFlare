@@ -1,0 +1,6 @@
+{
+  "name": "FechaZap - Gestão de Orçamentos",
+  "description": "Sistema completo de criação, acompanhamento e envio de orçamentos via WhatsApp com métricas e gestão de clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
